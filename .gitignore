@@ -363,5 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Input Output txt
-./input.txt
-./output.txt
+input.txt
+output.txt
